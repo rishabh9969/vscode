@@ -1,0 +1,9 @@
+numpy
+pandas
+openpyxl
+statsmodels
+matplotlib
+seaborn
+scipy
+nbformat
+
